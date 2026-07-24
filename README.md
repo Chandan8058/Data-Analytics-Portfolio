@@ -4,7 +4,7 @@ Welcome to my Data Analytics and Business Intelligence portfolio. This repositor
 
 ## About Me
 
-Hi, I'm Chandan Singh Rathore, a BCA student passionate about Data Analytics, Business Intelligence, and CRM solutions.
+Hi, I'm Chandan Singh, a BCA student passionate about Data Analytics, Business Intelligence, and CRM solutions.
 
 ### Skills
 - Power BI
@@ -35,9 +35,33 @@ This Power BI dashboard analyzes farmer-related data to provide meaningful insig
 #### File
 - cs_farmers.pbix
 
-## Future Projects
-- Classic Models Sales Dashboard
+### 2.- Classic Models Sales Dashboard
 - Data Analytics Case Studies
+
+### 3. Spotify Power BI Dashboard
+
+## Project Overview
+
+This project is an interactive Spotify dashboard built using Microsoft Power BI.
+
+## Tools Used
+
+- Power BI
+- Power Query
+- DAX
+
+## Dashboard Features
+
+- KPI Cards
+- Top Artists
+- Top Songs
+- Interactive Filters
+- Artist Analysis
+- Song Analysis
+
+## Dataset
+
+Spotify Top 50 World Dataset
 
 ## Contact
 - GitHub: Chandan8058
