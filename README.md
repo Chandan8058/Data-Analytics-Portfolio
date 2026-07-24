@@ -1,32 +1,22 @@
-# Spotify Power BI Dashboard
+# Data Analytics Portfolio
 
-## Project Overview
+Welcome to my Data Analytics Portfolio.
 
-This project is an interactive Spotify dashboard built using Microsoft Power BI.
+## Projects
 
-## Tools Used
+### 1. Spotify Power BI Dashboard
+- Interactive dashboard built using Power BI
+- Dataset: Spotify Top 50 World
+- Tools: Power BI, Power Query, DAX
 
+### 2. Classic Model Dashboard
+- Sales and Customer Analysis
+
+### 3. CS Farmers Dashboard
+- Agriculture Data Analysis
+
+## Skills
+- Excel
+- SQL
 - Power BI
-- Power Query
-- DAX
-
-## Dashboard Features
-
-- KPI Cards
-- Top Artists
-- Top Songs
-- Interactive Filters
-- Artist Analysis
-- Song Analysis
-
-## Dataset
-
-Spotify Top 50 World Dataset
-
-## Dashboard Screenshots
-
-(Add screenshots here)
-
-## Author
-
-Chandan Singh
+- Python
