@@ -9,14 +9,6 @@ Welcome to my Data Analytics Portfolio.
 - Dataset: Spotify Top 50 World
 - Tools: Power BI, Power Query, DAX
 
-### 2. Classic Model Dashboard
-- Sales and Customer Analysis
-
-### 3. CS Farmers Dashboard
-- Agriculture Data Analysis
-
 ## Skills
 - Excel
-- SQL
 - Power BI
-- Python
